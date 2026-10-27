@@ -1,16 +1,25 @@
-## Hi there 👋
+## Максим · Python-разработчик
 
-<!--
-**Kickptitsu/Kickptitsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Делаю **Telegram-ботов для малого бизнеса**: приём заказов, каталог и корзина,
+онлайн-оплата, панель менеджера, уведомления.
 
-Here are some ideas to get you started:
+**Что умею**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Telegram-боты на **aiogram 3**: меню, корзины, пошаговые анкеты, админ-панели
+- Приём оплаты: **Telegram Payments, ЮKassa, СБП**
+- Базы данных: **SQLite**, миграции без потери данных заказчика
+- Согласие на обработку персональных данных и удаление по запросу (**152-ФЗ**)
+- Автотесты на **pytest**: бот проверяется целиком, без Telegram и сети
+
+**Проект в портфолио**
+
+🥐 [**bakery-bot**](https://github.com/Kickptitsu/bakery-bot) — бот для приёма заказов пекарни:
+каталог, корзина, оформление с доставкой или самовывозом, оплата картой и по СБП,
+уведомления менеджеру со сменой статуса, статистика, 67 автотестов.
+
+**Стек:** Python · aiogram 3 · SQLite (aiosqlite) · aiohttp · pytest · Git
+
+💬 **Не только боты:** берусь и за другие задачи по программированию — опишите, что нужно,
+обсудим детали, сроки и стоимость в Telegram.
+
+📬 **Связаться:** Telegram [@kckptts](https://t.me/kckptts)
