@@ -47,7 +47,7 @@
 
 🌐 [**portfolio-site**](https://github.com/Kickptitsu/portfolio-site) — сайт-портфолио: услуги,
 проекты и интерактивное демо ботов прямо на странице. HTML, CSS и JavaScript без библиотек,
-быстро открывается с телефона.
+быстро открывается с телефона. [**Открыть сайт →**](https://kickptitsu.github.io/portfolio-site/)
 
 ### Инструменты
 
@@ -56,4 +56,4 @@ HTML/CSS · Linux-серверы
 
 💬 Не нашли свою задачу в списке? Напишите — обсудим, что нужно, сроки и стоимость.
 
-📬 **Связаться:** Telegram [@kckptts](https://t.me/kckptts)
+📬 **Связаться:** Telegram [@kckptts](https://t.me/kckptts) · 🌐 **Сайт:** [kickptitsu.github.io/portfolio-site](https://kickptitsu.github.io/portfolio-site/)
